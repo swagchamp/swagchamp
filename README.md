@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @swagchamp
 - 👀 I’m interested in makin a website in R Blogdown and Hugo
 - 🌱 I’m currently learning that
-- 📫 einar.tryti@mailfence.com
+- 📫 einar.tryti@gmail.com
 
 <!---
 swagchamp/swagchamp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
